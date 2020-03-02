@@ -21,6 +21,15 @@ Yes, see heatmap pattern.
 
 No, there was barely a difference in accuracy if we focused on the 20 top correlated columns.
 
+We will use the CRISP-DM process phases.  In particular:
+
+1.  Business Understanding
+2.  Data Understanding
+3.  Prepare Data
+4.  Data Modeling
+5.  Evaluate the Results
+
+The Jupyter notebook will be annotated with each of these phases as we do them for the questions above.
 
 ## Installation
 
